@@ -4,6 +4,13 @@ This project is a Phoenix/React boilerplate for web apps.
 
 It will soon contain an ueberauth strategy for challenge/response style authentication through Bitcoin signing of messages.
 
+## Dependencies
+
+- [git](https://git-scm.com/)
+- [node.js](nodejs.org)
+- [elixir](elixir-lang.org)
+- [goreman](https://github.com/mattn/goreman)
+
 ## Installation
 
 ```bash
