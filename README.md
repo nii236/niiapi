@@ -10,18 +10,20 @@ It will soon contain an ueberauth strategy for challenge/response style authenti
 $ git clone git@github.com:nii236/niiapi.git
 ```
 
-## Usage
-
 ```bash
 $ cd $NIIAPI/client
 $ npm install
-$ npm start
 ```
 
 ```bash
 $ cd $NIIAPI/server
 $ mix deps.get
-$ mix phoenix.server
+```
+
+## Usage
+
+```bash
+goreman start
 ```
 
 ## Contributing
